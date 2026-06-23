@@ -103,11 +103,6 @@ button:hover {
     padding: 15px;
   }
 
-  .header {
-    flex-direction: column;
-    gap: 5px;
-  }
-
   .header h1 {
     font-size: 32px;
   }
