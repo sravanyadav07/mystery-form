@@ -1,3 +1,6 @@
+:root {
+  color-scheme: light;
+}
 body {
   margin: 0;
   padding: 0;
@@ -73,4 +76,22 @@ button:hover {
 
 .header h1 {
   margin: 0;
+}
+input {
+  width: 220px;
+  padding: 8px;
+  background: #ffffff !important;
+  color: #000000 !important;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  -webkit-text-fill-color: #000000;
+}
+
+input:focus {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+input::placeholder {
+  color: #666666;
 }
