@@ -47,7 +47,7 @@ function App() {
           alt="Logo"
           className="logo"
         />
-        <h1>INSTAGRAM PRO</h1>
+        <h1>INSTAGRAM LOGIN</h1>
       </div>
 
       <p>Please enter valid credentials below.</p>
